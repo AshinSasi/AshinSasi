@@ -83,7 +83,7 @@
  <details>
   <summary><b>💻 GitHub Profile Stats</b></summary>
    
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AshinSasi&theme=2077" alt="AshinSasi" /></p>
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AshinSasi&theme=aura" alt="AshinSasi" /></p>
 
 </details>
 
