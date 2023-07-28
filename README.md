@@ -67,10 +67,10 @@
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
   </a>
   <a href="https://www.dynatrace.com/" target="_blank" >
-    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/dynatrace/dynatrace-ar21.svg" height="65" />
+    <img src="https://www.vectorlogo.zone/logos/dynatrace/dynatrace-ar21.svg" height="65" />
   </a>
     <a href="https://www.appdynamics.com/" target="_blank" >
-    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/appdynamics/appdynamics-ar21.svg" height="65" />
+    <img src="https://www.vectorlogo.zone/logos/appdynamics/appdynamics-ar21.svg" height="65" />
   </a>
 </p>
   
