@@ -78,7 +78,7 @@
 
 <details>
   <summary><b>Tap Me</b></summary>
-  <img src="https://ashinsas.hashnode.dev/how-to-create-backup-of-hashnode-blog-in-your-github-repository&large=true&theme=dark"/>
+  <img src="https://ashinsas.hashnode.dev/how-to-create-backup-of-hashnode-blog-in-your-github-repository"/>
 
 
 </p>
