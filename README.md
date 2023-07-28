@@ -94,10 +94,10 @@
 </details>
 
   <details>
-  <summary><b>📈 My Top Languages</b></summary>
+  <summary><b>📈 My Stats</b></summary>
 
-<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshinSasi&theme=aura" alt="AshinSasi" 
-  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AshinSasi&theme=aura" alt="AshinSasi" /></p>
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AshinSasi&theme=aura" alt="AshinSasi" 
+ 
 </details> 
 
   </details>
